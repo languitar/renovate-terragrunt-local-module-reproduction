@@ -1,4 +1,4 @@
 terraform {
-  source = "../modules/test/"
+  source = "../modules/my-module/"
 }
 
